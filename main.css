@@ -223,7 +223,6 @@ footer {
     height: 75px;
   }
 }
-/* Мобильное устройство */
 
 @media (max-width: 720px) {
   header {
