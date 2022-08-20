@@ -261,3 +261,8 @@ footer {
     flex-direction: column;
   }
 }
+
+.animate__fadeInRight,
+.animate__fadeInLeft {
+  animation-duration: 2s;
+}
